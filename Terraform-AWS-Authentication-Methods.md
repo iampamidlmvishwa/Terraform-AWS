@@ -53,6 +53,18 @@ AWS Resources
 
 ---
 
+🔐 Terraform Authentication Methods
+Hardcoded Credentials
+terraform.tfvars
+Environment Variables
+AWS CLI Profiles
+Assume Role
+IAM Role on EC2
+AWS SSO
+GitHub OIDC
+<img width="1998" height="1125" alt="image" src="https://github.com/user-attachments/assets/36431a41-c909-4d6e-a216-b31d56a3e394" />
+
+
 # Method 1 - Hardcoded Credentials
 
 ## Configuration
